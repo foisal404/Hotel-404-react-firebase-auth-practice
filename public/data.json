@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "details": "A spacious room with a king-sized bed, en-suite bathroom, and a balcony with a view of the ocean.",
+        "package_name": "Luxury Package",
+        "bed_amount": 1,
+        "people": 2,
+        "image_url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+        "id": 2,
+        "details": "A cozy room with two double beds, a mini-fridge, and a microwave.",
+        "package_name": "Standard Package",
+        "bed_amount": 2,
+        "people": 4,
+        "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 3,
+        "details": "A large suite with a separate living room and bedroom, a kitchenette, and a whirlpool tub.",
+        "package_name": "Executive Package",
+        "bed_amount": 2,
+        "people": 4,
+        "image_url": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+    }
+]
